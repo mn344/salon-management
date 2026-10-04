@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Salon_Customer__c</members>
+        <members>Stlylist__c</members>
+        <members>Service_Category__c</members>
+        <members>Service__c</members>
+        <members>Salon_Appointment__c</members>
+        <members>Appointment_Service__c</members>
+        <members>Salon_Payment__c</members>
+        <members>Salon_Product__c</members>
+        <members>Product_Sale__c</members>
+        <members>Salon_Feedback__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Salon_Customer__c</members>
+        <members>Stlylist__c</members>
+        <members>Service_Category__c</members>
+        <members>Service__c</members>
+        <members>Salon_Appointment__c</members>
+        <members>Appointment_Service__c</members>
+        <members>Salon_Payment__c</members>
+        <members>Salon_Product__c</members>
+        <members>Product_Sale__c</members>
+        <members>Salon_Feedback__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Salon_Management</members>
+        <name>CustomApplication</name>
+    </types>
+    <version>60.0</version>
+</Package>

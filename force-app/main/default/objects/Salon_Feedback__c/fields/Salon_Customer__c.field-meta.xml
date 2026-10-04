@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salon_Customer__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Salon Customer</label>
+    <referenceTo>Salon_Customer__c</referenceTo>
+    <relationshipLabel>Salon Feedbacks</relationshipLabel>
+    <relationshipName>Salon_Feedbacks</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
